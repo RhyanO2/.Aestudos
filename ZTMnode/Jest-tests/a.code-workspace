@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Jest-tests",
+			"path": "."
+		},
+		{
+			"name": ".Aestudos",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
